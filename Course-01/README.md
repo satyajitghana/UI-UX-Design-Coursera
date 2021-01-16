@@ -2,7 +2,7 @@
 
 ## Week 01
 
-![beervision1.0](Week01/moodboard.png)
+![beervision1.0](Week02/moodboard.png)
 
 Project Title
 
